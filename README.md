@@ -16,8 +16,8 @@ The project simulates a lending process where borrowers can prove that their cre
 To set up the project, clone this repository and install the required Python libraries.
 
 ```
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/mickymult/ZeroKnowledgeProofs.git
+cd ZeroKnowledgeProofs
 pip install ecdsa ipywidgets
 ```
 
